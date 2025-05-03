@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello, I'm Aaliyah
 
-<!--
-**ac0963/ac0963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Cloud Security Professional with hands-on experience in cybersecurity projects, IT support, and helpdesk operations. I'm graduating this month with an Associate's Degree in Cybersecurity and currently interning as an IT Department Technician. I'm passionate about learning new technologies, expanding my skills, and tackling real-world security challenges.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Objectives
+
+My objectives are to land my first cybersecurity or cloud security internship or entry-level role where I can apply my technical skills, grow in a hands-on environment, and contribute to securing companies and send users. I aim to leverage my experience in IT support, academic training, and passion for cloud technologies to build a strong foundation in the cybersecurity field.
+
+## My Skills
+-
+-
+-
+## Tools
+-
+-
+-
+## Cloud
+-
+-
+-
+## Certifications
+-
+-
+-
+## Projects
+-
+-
+-

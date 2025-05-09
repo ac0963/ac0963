@@ -10,17 +10,16 @@ My objectives are to land my first cybersecurity or cloud security internship or
 
 ## My Skills
 - Reconnaissance
--
--
+- Firewalls
+- Vulnerability Assessment
 ## Tools
 - Nmap
--
--
+- Wireshark
+- Snort
 ## Projects
 - <a href="https://github.com/ac0963/Project-Test/tree/main"> Template project-test lab</a>
--
+- <a href="https://github.com/ac0963/Presentations"> Powerpoint Presentations</a>
 -
 ## Certifications
--
--
--
+- Security+ (In Progress)
+- Network+ (In Progress)

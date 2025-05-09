@@ -9,22 +9,18 @@ I'm an aspiring Cloud Security Professional with hands-on experience in cybersec
 My objectives are to land my first cybersecurity or cloud security internship or entry-level role where I can apply my technical skills, grow in a hands-on environment, and contribute to securing companies and send users. I aim to leverage my experience in IT support, academic training, and passion for cloud technologies to build a strong foundation in the cybersecurity field.
 
 ## My Skills
--
+- Reconnaissance
 -
 -
 ## Tools
--
--
--
-## Cloud
--
--
--
-## Certifications
--
+-Nmap
 -
 -
 ## Projects
 - <a href="https://github.com/ac0963/Project-Test/tree/main"> Template project-test lab</a>
+-
+-
+## Certifications
+-
 -
 -

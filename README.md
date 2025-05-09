@@ -13,7 +13,7 @@ My objectives are to land my first cybersecurity or cloud security internship or
 -
 -
 ## Tools
--Nmap
+- Nmap
 -
 -
 ## Projects

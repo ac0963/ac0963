@@ -23,3 +23,20 @@ My objectives are to land my first cybersecurity or cloud security internship or
 ## Certifications
 - Security+ (In Progress)
 - Network+ (In Progress)
+
+## Relevant Completed Coursework
+- Intro To computer Programming
+- Intro to Cybersecurity
+- Computer & Network Hardware
+- The Linux Operating System
+- Web Site Development
+- Technology & Digital Literacy
+- Operating Systems & Software
+- Information Technology Security
+- Windows Client-Server
+- Intro to Networking
+- CCNAv7 SRWE
+- Cybersecurity Operations
+- Firewall Essentials
+- Ethical Hacking
+- Digital Forensics

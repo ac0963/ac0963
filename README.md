@@ -1,7 +1,7 @@
 # Hello, I'm Aaliyah
 <a href="https://www.linkedin.com/in/aaliyah-conners-538a452a0/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm an aspiring Cloud Security Professional with hands-on experience in cybersecurity projects, IT support, and helpdesk operations. I'm graduating this month with an Associate's Degree in Cybersecurity and currently interning as an IT Department Technician. I'm passionate about learning new technologies, expanding my skills, and tackling real-world security challenges.
+I'm an aspiring Cybersecurity Professional with hands-on experience in cybersecurity projects, IT support, and helpdesk operations.I recently graduated with an Associates Degree in Cybersecurity and completed an internship as an IT Department Technician. I'm passionate about learning new technologies, expanding my skills, and tackling real-world security challenges.
 
 
 ## My Objectives
